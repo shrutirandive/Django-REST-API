@@ -1,0 +1,14 @@
+{
+    "name": "Italy",
+    "capital": "rome",
+    "code": "itl",
+    "population": 5445654
+}
+
+{
+    "id": 2,
+    "name": "greece",
+    "capital": "athens",
+    "code": "grc",
+    "population": 231245
+}
