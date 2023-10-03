@@ -1,4 +1,4 @@
-# django_rest_framework_CRUD_search
+# django_rest_framework_CRUD and Search operation
 CRUD operations and Search in DRF
 
 run the project -- `python manage.py runserver`
